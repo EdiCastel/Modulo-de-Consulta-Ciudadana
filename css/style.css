@@ -1,0 +1,18 @@
+#login-panel {
+
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 100px;
+
+}
+
+/* ESTILOS PARA LOS ICONOS DE REDES EN EL FOOTER*/
+.social-icons {
+    margin-top: 5px;
+    margin-bottom: -10px;
+}
+.social-icons a, span {
+    margin-right: 20px;
+    margin-left: 20px;
+
+}
